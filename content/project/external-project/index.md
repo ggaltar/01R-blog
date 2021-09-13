@@ -1,11 +1,11 @@
 ---
 date: "2016-04-27T00:00:00Z"
-external_link: http://example.org
+external_link: https://ggaltar.github.io/visor_danos/
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: captura de pantalla
   focal_point: Smart
-summary: An example of linking directly to an external project website using `external_link`.
+summary: Ejemplo del visor de daños que se incluirá en mi proyecto de graduación.
 tags:
-- Demo
-title: External Project
+- Visor
+title: Visor de daños en la red vial nacional
 ---

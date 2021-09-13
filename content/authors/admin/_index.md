@@ -1,23 +1,23 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Me interesan los sistemas de información geográfica, la infraestructura vial, la gestión de riesgo de desastres y la programación de aplicaciones.
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: Maestría Profesional en Sistemas de Información Geográfica y Teledetección
+    institution: Universidad de Costa Rica - Universidad Nacional
+    year: 2022
+  - course: Licenciatura en Ingeniería Civil
+    institution: Universidad de Costa Rica
     year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
+  - course: Técnico Medio en Informática
+    institution: Colegio Técnico Don Bosco
+    year: 2004
+email: "gcorralesj@gmail.com"
 highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Sistemas de información geográfica.
+- Infraestructura vial.
+- Gestión de riesgo de desastres.
+- Programación de aplicaciones.
 organizations:
 - name: UCR-UNA
   url: http://www.geo.una.ac.cr/index.php/oferta-academica/mpsigte/
@@ -26,27 +26,17 @@ social:
 - icon: envelope
   icon_pack: fas
   link: /#contact
-- display:
-    header: true
-  icon: twitter
-  icon_pack: fab
-  label: Follow me on Twitter
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/gabriel-jes%C3%BAs-corrales-jim%C3%A9nez-7a8235220/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/ggaltar
 superuser: true
 title: Gabriel Corrales
 ---
 
-Gabriel Corrales es estudiante de la Maestría de Sistemas de Información Geográfica y Teledetección (MPSIGTE) de la Universidad de Costa Rica y la Universidad Nacional.
+Ingeniero civil y estudiante de la Maestría Profesional de Sistemas en Información Geográfica y Teledetección (MPSIGTE) de la Universidad de Costa Rica y la Universidad Nacional.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Descargar {{< staticref "uploads/CV_Gabriel_Corrales_2021.pdf" "newtab" >}}currículo{{< /staticref >}}.

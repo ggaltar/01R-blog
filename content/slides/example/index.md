@@ -10,154 +10,33 @@ tags: []
 title: Slides
 ---
 
-# Create slides in Markdown with Wowchemy
+###### Diseño de un sistema de información geográfica para captura, almacenamiento, visualización y evaluación de los daños causados por eventos naturales en la infraestructura de la Red Vial Nacional de Costa Rica
 
-[Wowchemy](https://wowchemy.com/) | [Documentation](https://owchemy.com/docs/managing-content/#create-slides)
 
----
+[Maestría Profesional en Sistemas de Información Geográfica y Teledetección](http://www.geo.una.ac.cr/index.php/oferta-academica/mpsigte/)
 
-## Features
-
-- Efficiently write slides in Markdown
-- 3-in-1: Create, Present, and Publish your slides
-- Supports speaker notes
-- Mobile friendly slides
+[Ing. Gabriel Corrales J.](https://www.linkedin.com/in/gabriel-jes%C3%BAs-corrales-jim%C3%A9nez-7a8235220/)
 
 ---
 
-## Controls
+## Objetivo general
 
-- Next: `Right Arrow` or `Space`
-- Previous: `Left Arrow`
-- Start: `Home`
-- Finish: `End`
-- Overview: `Esc`
-- Speaker notes: `S`
-- Fullscreen: `F`
-- Zoom: `Alt + Click`
-- [PDF Export](https://github.com/hakimel/reveal.js#pdf-export): `E`
+Desarrollar un sistema de información geográfica que permita al CONAVI registrar los daños causados por eventos naturales en la infraestructura de la Red Vial Nacional de Costa Rica.
 
 ---
 
-## Code Highlighting
+## Objetivos específicos
 
-Inline code: `variable`
+- Programar una aplicación móvil que permita capturar datos de campo de los daños en la infraestructura de la RVN.
+- Implementar una base de datos para almacenar la información obtenida en campo de los daños en la infraestructura de la RVN.
+- Elaborar una aplicación web para visualizar la información almacenada de los daños en la infraestructura de la RVN.
 
-Code block:
-```python
-porridge = "blueberry"
-if porridge == "blueberry":
-    print("Eating...")
-```
 
 ---
 
-## Math
 
-In-line math: $x + y = z$
+{{< slide background-color="#BCBCBC" >}}
+{{< slide background-image="/media/fondo-blanco.jpg" >}}
+## Esquema metodológico
 
-Block math:
-
-$$
-f\left( x \right) = \;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
-$$
-
----
-
-## Fragments
-
-Make content appear incrementally
-
-```
-{{%/* fragment */%}} One {{%/* /fragment */%}}
-{{%/* fragment */%}} **Two** {{%/* /fragment */%}}
-{{%/* fragment */%}} Three {{%/* /fragment */%}}
-```
-
-Press `Space` to play!
-
-{{% fragment %}} One {{% /fragment %}}
-{{% fragment %}} **Two** {{% /fragment %}}
-{{% fragment %}} Three {{% /fragment %}}
-
----
-
-A fragment can accept two optional parameters:
-
-- `class`: use a custom style (requires definition in custom CSS)
-- `weight`: sets the order in which a fragment appears
-
----
-
-## Speaker Notes
-
-Add speaker notes to your presentation
-
-```markdown
-{{%/* speaker_note */%}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{%/* /speaker_note */%}}
-```
-
-Press the `S` key to view the speaker notes!
-
-{{< speaker_note >}}
-- Only the speaker can read these notes
-- Press `S` key to view
-{{< /speaker_note >}}
-
----
-
-## Themes
-
-- black: Black background, white text, blue links (default)
-- white: White background, black text, blue links
-- league: Gray background, white text, blue links
-- beige: Beige background, dark text, brown links
-- sky: Blue background, thin dark text, blue links
-
----
-
-- night: Black background, thick white text, orange links
-- serif: Cappuccino background, gray text, brown links
-- simple: White background, black text, blue links
-- solarized: Cream-colored background, dark green text, blue links
-
----
-
-{{< slide background-image="/media/boards.jpg" >}}
-
-## Custom Slide
-
-Customize the slide style and background
-
-```markdown
-{{</* slide background-image="/media/boards.jpg" */>}}
-{{</* slide background-color="#0000FF" */>}}
-{{</* slide class="my-style" */>}}
-```
-
----
-
-## Custom CSS Example
-
-Let's make headers navy colored.
-
-Create `assets/css/reveal_custom.css` with:
-
-```css
-.reveal section h1,
-.reveal section h2,
-.reveal section h3 {
-  color: navy;
-}
-```
-
----
-
-# Questions?
-
-[Ask](https://github.com/wowchemy/wowchemy-hugo-modules/discussions)
-
-[Documentation](https://wowchemy.com/docs/managing-content/#create-slides)
+![metodologia](/media/metodologia.jpg)
