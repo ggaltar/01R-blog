@@ -1,0 +1,28 @@
+---
+title: Flujos de trabajo en bases de datos multiusuarios
+author: 
+  - Gabriel Corrales
+  - Ana Lucía Garita
+date: '2021-06-03'
+slug: flujos-de-trabajo-en-bases-de-datos-multiusuarios
+categories:
+  - Artículo
+tags:
+  - Bases de datos
+  - Multiusuario
+  - QGIS
+  - ArcGIS
+subtitle: 'Capacidades que ofrecen las bases de datos espaciales para la implementación de flujos de trabajo en entornos multiusuario'
+summary: 'Capacidades que ofrecen las bases de datos espaciales para la implementación de flujos de trabajo en entornos multiusuario'
+authors: []
+lastmod: '2021-09-13T17:39:39-06:00'
+featured: no
+image: featured.jpg
+  caption: 'center'
+  focal_point: 'placement'
+  preview_only: no
+projects: []
+---
+En este trabajo se realiza una introducción a la edición de bases de datos espaciales, haciendo una diferenciación entre la edición versionada y la no versionada. Específicamente se desarrollan dos flujos de trabajo sencillos de edición multiusuarios no versionada utilizando PostgreSQL en combinación con QGIS, y por otra parte ArcGIS, de manera que el lector pueda tener una visión comparativa de la utilización de ambos métodos. Finalmente, producto de esta comparación, se genera un análisis concluyente respecto a la aplicación de edición no versionada con ambos software.
+
+-  {{< icon name="download" pack="fas" >}} Descargar {{< staticref "uploads/Tarea3_ALGF_GCJ.pdf" "newtab" >}}documento{{< /staticref >}}.
