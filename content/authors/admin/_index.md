@@ -28,7 +28,7 @@ social:
   link: /#contact
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/gabriel-jes%C3%BAs-corrales-jim%C3%A9nez-7a8235220/
+  link: https://www.linkedin.com/in/gabriel-jesus-c
 - icon: github
   icon_pack: fab
   link: https://github.com/ggaltar
