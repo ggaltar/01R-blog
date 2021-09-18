@@ -9,6 +9,7 @@ categories:
   - Artículo
 tags:
   - Bases de datos
+  - SIG
   - Multiusuario
   - QGIS
   - ArcGIS

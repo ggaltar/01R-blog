@@ -1,9 +1,9 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Proyecto de graduación de licenciatura"
-subtitle: "Asentamientos en la ciudad de Santiago de Puriscal debidos a un eventual abatimiento del nivel freático"
-summary: "Asentamientos en la ciudad de Santiago de Puriscal debidos a un eventual abatimiento del nivel freático"
+title: "Asentamientos en la ciudad de Santiago de Puriscal debidos a un eventual abatimiento del nivel freático"
+subtitle: "Proyecto de graduación de licenciatura"
+summary: "Estimación de los asentamientos debidos a un eventual abatimiento del nivel freático aplicado como solución al deslizamiento en la ciudad de Santiago de Puriscal "
 authors: []
 tags: []
 categories: []
