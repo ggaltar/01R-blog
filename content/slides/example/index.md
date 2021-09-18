@@ -30,6 +30,3 @@ Desarrollar un sistema de información geográfica que permita al CONAVI registr
 - Programar una aplicación móvil que permita capturar datos de campo de los daños en la infraestructura de la RVN.
 - Implementar una base de datos para almacenar la información obtenida en campo de los daños en la infraestructura de la RVN.
 - Elaborar una aplicación web para visualizar la información almacenada de los daños en la infraestructura de la RVN.
-
-
----
