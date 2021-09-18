@@ -33,10 +33,3 @@ Desarrollar un sistema de información geográfica que permita al CONAVI registr
 
 
 ---
-
-
-{{< slide background-color="#BCBCBC" >}}
-{{< slide background-image="/media/fondo-blanco.jpg" >}}
-## Esquema metodológico
-
-![metodologia](/media/metodologia.jpg)
