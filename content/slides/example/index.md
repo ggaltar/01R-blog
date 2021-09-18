@@ -10,7 +10,7 @@ tags: []
 title: Slides
 ---
 
-###### Diseño de un sistema de información geográfica para captura, almacenamiento, visualización y evaluación de los daños causados por eventos naturales en la infraestructura de la Red Vial Nacional de Costa Rica
+###### Diseño de un sistema de información geográfica para captura, almacenamiento y visualización de los daños causados por eventos naturales en la infraestructura de la Red Vial Nacional de Costa Rica
 
 
 [Maestría Profesional en Sistemas de Información Geográfica y Teledetección](http://www.geo.una.ac.cr/index.php/oferta-academica/mpsigte/)
