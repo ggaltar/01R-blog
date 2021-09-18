@@ -12,7 +12,7 @@ tags:
 - Proyecto graduación
 - Red Vial Nacional Costa Rica
 - Registro de daños
-title: Sistema de información geográfica para captura, almacenamiento y visualización de los daños causados por eventos naturales en la infraestructura de la red vial nacional de costa rica
+title: Captura, almacenamiento y visualización de los daños causados por eventos naturales en la infraestructura de la Red Vial Nacional de Costa Rica
 url_code: ""
 url_pdf: ""
 url_slides: ""
