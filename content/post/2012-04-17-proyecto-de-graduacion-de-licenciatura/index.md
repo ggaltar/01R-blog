@@ -3,7 +3,7 @@
 
 title: "Asentamientos en la ciudad de Santiago de Puriscal debidos a un eventual abatimiento del nivel freático"
 subtitle: "Proyecto de graduación de licenciatura"
-summary: "Estimación de los asentamientos que produciría un eventual abatimiento del nivel freático aplicado como solución al deslizamiento en la ciudad de Santiago de Puriscal "
+summary: "Estimación de los asentamientos que produciría un eventual abatimiento del nivel freático aplicado como solución al deslizamiento en la ciudad de Santiago de Puriscal."
 authors: []
 tags: []
 categories: []

@@ -18,6 +18,7 @@ interests:
 - Infraestructura vial.
 - Gestión de riesgo de desastres.
 - Programación de aplicaciones.
+- Ordenamiento territorial.
 organizations:
 - name: UCR-UNA
   url: http://www.geo.una.ac.cr/index.php/oferta-academica/mpsigte/
