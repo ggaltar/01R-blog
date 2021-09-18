@@ -1,5 +1,5 @@
 ---
-bio: Me interesan los sistemas de información geográfica, la infraestructura vial, la gestión de riesgo de desastres y la programación de aplicaciones.
+bio: Me interesan los sistemas de información geográfica, la infraestructura vial, la gestión de riesgo de desastres, la programación de aplicaciones y el ordenamiento territorial.
 education:
   courses:
   - course: Maestría Profesional en Sistemas de Información Geográfica y Teledetección
