@@ -4,7 +4,7 @@ education:
   courses:
   - course: Maestría Profesional en Sistemas de Información Geográfica y Teledetección
     institution: Universidad de Costa Rica - Universidad Nacional
-    year: 2022
+    year: 2023
   - course: Licenciatura en Ingeniería Civil
     institution: Universidad de Costa Rica
     year: 2012
@@ -21,8 +21,8 @@ interests:
 - Ordenamiento territorial.
 organizations:
 - name: UCR-UNA
-  url: http://www.geo.una.ac.cr/index.php/oferta-academica/mpsigte/
-role: Estudiante de Maestría SIG
+  url: https://www.sep.ucr.ac.cr/posgrados/geografia/folleto/ppgeo-teledeteccion.pdf
+role: Ingeniero civil - Maestría SIG
 social:
 - icon: envelope
   icon_pack: fas
@@ -40,4 +40,4 @@ title: Gabriel Corrales
 Ingeniero civil y estudiante de la Maestría Profesional de Sistemas en Información Geográfica y Teledetección (MPSIGTE) de la Universidad de Costa Rica y la Universidad Nacional.
 
 
-{{< icon name="download" pack="fas" >}} Descargar {{< staticref "uploads/CV_Gabriel_Corrales_2022.pdf" "newtab" >}}currículo{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Descargar {{< staticref "uploads/CV_Gabriel_Corrales_2023.pdf" "newtab" >}}currículo{{< /staticref >}}.
