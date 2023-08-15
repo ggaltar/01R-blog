@@ -13,7 +13,7 @@ title: Slides
 ###### Diseño de un sistema de información geográfica para captura, almacenamiento y visualización de los daños causados por eventos naturales en la infraestructura de la Red Vial Nacional de Costa Rica
 
 
-[Maestría Profesional en Sistemas de Información Geográfica y Teledetección](http://www.geo.una.ac.cr/index.php/oferta-academica/mpsigte/)
+[Maestría Profesional en Sistemas de Información Geográfica y Teledetección](https://www.sep.ucr.ac.cr/posgrados/geografia/folleto/ppgeo-teledeteccion.pdf)
 
 [Ing. Gabriel Corrales J.](https://www.linkedin.com/in/gabriel-jes%C3%BAs-corrales-jim%C3%A9nez-7a8235220/)
 
