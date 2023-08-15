@@ -37,7 +37,7 @@ superuser: true
 title: Gabriel Corrales
 ---
 
-Ingeniero civil y estudiante de la Maestría Profesional de Sistemas en Información Geográfica y Teledetección (MPSIGTE) de la Universidad de Costa Rica y la Universidad Nacional.
+Ingeniero civil graduado de la Maestría Profesional de Sistemas en Información Geográfica y Teledetección (MPSIGTE) de la Universidad de Costa Rica y la Universidad Nacional.
 
 
 {{< icon name="download" pack="fas" >}} Descargar {{< staticref "uploads/CV_Gabriel_Corrales_2023.pdf" "newtab" >}}currículo{{< /staticref >}}.
